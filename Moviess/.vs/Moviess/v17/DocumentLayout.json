@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yaren\\Desktop\\Moviess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|c:\\users\\yaren\\desktop\\moviess\\moviess\\filmlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|solutionrelative:moviess\\filmlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|C:\\Users\\Yaren\\Desktop\\Moviess\\moviess\\filmlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|solutionrelative:moviess\\filmlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|C:\\Users\\Yaren\\Desktop\\Moviess\\moviess\\filmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|solutionrelative:moviess\\filmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\DbManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|solutionrelative:Moviess\\DbManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|solutionrelative:Moviess\\RegisterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|solutionrelative:Moviess\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|solutionrelative:Moviess\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\FilmForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|solutionrelative:Moviess\\FilmForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|C:\\Users\\Yaren\\Desktop\\Moviess\\moviess\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|solutionrelative:moviess\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|C:\\Users\\Yaren\\Desktop\\Moviess\\moviess\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC22679D-0268-4128-A867-AE5C147023E3}|Moviess\\Moviess.csproj|solutionrelative:moviess\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\DbManagement.cs",
+              "RelativeDocumentMoniker": "Moviess\\DbManagement.cs",
+              "ToolTip": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\DbManagement.cs",
+              "RelativeToolTip": "Moviess\\DbManagement.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAQwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:06:49.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilmForm.cs",
+              "DocumentMoniker": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\FilmForm.cs",
+              "RelativeDocumentMoniker": "Moviess\\FilmForm.cs",
+              "ToolTip": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\FilmForm.cs",
+              "RelativeToolTip": "Moviess\\FilmForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:48:26.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\Login.cs",
+              "RelativeDocumentMoniker": "Moviess\\Login.cs",
+              "ToolTip": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\Login.cs",
+              "RelativeToolTip": "Moviess\\Login.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:05:27.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Moviess\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\RegisterForm.cs",
+              "RelativeToolTip": "Moviess\\RegisterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:16:01.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmListForm.cs",
+              "DocumentMoniker": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\FilmListForm.cs",
+              "RelativeDocumentMoniker": "Moviess\\FilmListForm.cs",
+              "ToolTip": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\FilmListForm.cs",
+              "RelativeToolTip": "Moviess\\FilmListForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:35:05.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\FilmListForm.cs",
+              "RelativeDocumentMoniker": "Moviess\\FilmListForm.cs",
+              "ToolTip": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\FilmListForm.cs [Design]",
+              "RelativeToolTip": "Moviess\\FilmListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:33:16.191Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\Program.cs",
+              "RelativeDocumentMoniker": "Moviess\\Program.cs",
+              "ToolTip": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\Program.cs",
+              "RelativeToolTip": "Moviess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:10:04.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\FilmForm.cs",
+              "RelativeDocumentMoniker": "Moviess\\FilmForm.cs",
+              "ToolTip": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\FilmForm.cs [Design]",
+              "RelativeToolTip": "Moviess\\FilmForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:36:13.559Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Moviess\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "Moviess\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:14:58.909Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\Login.cs",
+              "RelativeDocumentMoniker": "Moviess\\Login.cs",
+              "ToolTip": "C:\\Users\\Yaren\\Desktop\\Moviess\\Moviess\\Login.cs [Design]",
+              "RelativeToolTip": "Moviess\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T22:04:27.954Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
